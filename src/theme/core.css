@@ -1,0 +1,18 @@
+ion-toolbar{
+    --background: var(--ion-color-primary);
+}
+ion-title{
+    text-align: center;
+    --color: var(--ion-color-secondary-contrast);
+}
+ion-menu-button{
+    --color: var(--ion-color-secondary-contrast);
+}
+ion-back-button{
+    --color: var(--ion-color-secondary-contrast);
+}
+ion-content{
+
+    --background:var(--ion-color-tertiary-tint  ) ;
+    /*-moz-background-image: image(""`assets/images/bright-living-room-with-a-large-house-plant-copy-royalty-free-image-1580854667.jpg`);*/
+}
